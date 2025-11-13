@@ -1,0 +1,1 @@
+dataset,model,eval_metrics/MSE[mean],eval_metrics/MAE[mean],eval_metrics/MASE[mean],eval_metrics/MAPE[mean],eval_metrics/sMAPE[mean],eval_metrics/RMSE[mean],eval_metrics/NRMSE[mean],eval_metrics/ND[mean],domain,num_variates
